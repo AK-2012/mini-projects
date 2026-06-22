@@ -25,7 +25,7 @@ A command-line game that uses random number generation, where the player attempt
 
 ### Python Files
 
-Clone or download the repository, navigate to the desired project directory, and run:
+Clone the repository or download the desired file and run:
 
 ```python file.py```
 
