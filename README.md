@@ -5,17 +5,20 @@ A collection of small games and programming projects created to practice program
 ## Projects
 ### Tic-Tac-Toe
 
-A command-line implementation of the classic 3×3 game of Tic-Tac-Toe. 
+A command-line implementation of the classic 3×3 game of Tic-Tac-Toe.
+
 **Requirements:** Python 3
 
 ### Rock Paper Scissors
 
-A simple command-line game that uses random selection, where the player competes against the computer. 
+A simple command-line game that uses random selection, where the player competes against the computer.
+
 **Requirements:** Python 3
 
 ### Guess the Number
 
 A command-line game that uses random number generation, where the player attempts to guess a number chosen by the computer. 
+
 **Requirements:** Python 3
 
 ## Running a Project
