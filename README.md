@@ -27,6 +27,8 @@ A command-line game that uses random number generation, where the player attempt
 
 Clone the repository or download the desired file and run:
 
-```python file.py```
+```
+python file.py
+```
 
 Replace ```file.py``` with the name of the project's Python file.
