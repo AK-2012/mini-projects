@@ -21,6 +21,12 @@ A command-line game that uses random number generation, where the player attempt
 
 **Requirements:** Python 3
 
+### Binary Converter
+
+A simple command-line program that takes a number between 0 and 255 (inclusive) and converts it into its one byte (8 bit) binary representation.
+
+**Requirements:** Python 3
+
 ## Running a Project
 
 ### Python Files
