@@ -23,7 +23,7 @@ A command-line game that uses random number generation, where the player attempt
 
 ### Binary Converter
 
-A simple command-line program that takes a number between 0 and 255 (inclusive) and converts it into its 8-bit binary equivalent. Also my AP Computer Science Principles Create Performance task. 
+A simple command-line program that takes a number between 0 and 255 (inclusive) and converts it into its 8-bit binary equivalent. This project was created as my AP Computer Science Principles Create Performance Task.
 
 **Requirements:** Python 3
 
